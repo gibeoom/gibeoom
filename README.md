@@ -4,6 +4,7 @@
 ## Gibeom Kim
 gibeoom@gmail.com<br/>
 Daejeon, Korea<br/>
+[Github](https://github.com/gibeoom) | [Blog](https://gibeoom.github.io/)
 
 ## Timeline:
 - 🧑🏻‍💻 (2020.09 ~ ) [Deephearing](https://deep-hearing.ai) Software Engineer
