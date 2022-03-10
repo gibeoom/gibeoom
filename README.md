@@ -4,8 +4,7 @@
 ## Gibeom Kim
 gibeoom@gmail.com<br/>
 Daejeon, Korea<br/>
-[Github](https://github.com/gibeoom) | [Blog](https://gibeoom.github.io/)
-
+[Github](https://github.com/gibeoom) 
 ## Timeline:
 - 🧑🏻‍💻 (2020.09 ~ ) [Deephearing](https://deep-hearing.ai) Software Engineer
 - 🧑🏻‍💻 (2020.03 ~ 2020.08) [Nanocellect](https://nanocellect.com/) Software Engineer Intern
