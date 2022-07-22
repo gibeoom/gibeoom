@@ -11,8 +11,6 @@ Daejeon, Korea<br/>
 - 📖 (2019.12 ~ 2020.02) Global Internship at Purdue University
 - 🎓 (2015.03 ~ 2021.03) Graduated from the Computer Science and Engineering at Chungnam National Univ.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gibeoom&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **gibeoom/gibeoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
